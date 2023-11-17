@@ -17,8 +17,8 @@ terraform {
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAREDXVKS2NLQGDAG5"
-  secret_key = "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"
+  access_key = "<AWS Access Key>"
+  secret_key = "<AWS Secret Key>"
 }
 
 provider "azurerm" {
